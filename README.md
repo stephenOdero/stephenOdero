@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @stephenOdero
+- I have done my training in BSc. Electrical and Electronics Engineering and in my 5 year journey discovered some few interests. 
 - 👀 I’m interested in computer networks, computer vision, cloud computing, cybersecurity, and programming/Scripting.
 - 🌱 I’m currently learning BASH Scripting and delving more into networking. 
 - 💞️ I’m looking to collaborate on writing scripts on network related projects. 
