@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephenOdero
-- 👀 I’m interested in computer networks, cyber security, and programming/Scripting.
+- 👀 I’m interested in computer networks, computer vision, cloud computing, cybersecurity, and programming/Scripting.
 - 🌱 I’m currently learning BASH Scripting and delving more into networking. 
 - 💞️ I’m looking to collaborate on writing scripts on network related projects. 
 - 📫 How to reach me at... 
