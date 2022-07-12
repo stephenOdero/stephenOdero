@@ -3,7 +3,7 @@
 - 👀 I’m interested in computer networks, computer vision, cloud computing, cybersecurity, and programming/Scripting.
 - 🌱 I’m currently learning BASH Scripting and delving more into networking and security. 
 - 💞️ I’m looking to collaborate on writing scripts for network-related projects. 
-- 📫 How to reach me at... 
+- 📫 How to reach me at steveoodero@gmail.com
 - I am eager to share regularly what I will be learning in my scripting and programming journey and hope to gain more ideas from collaborators.
 -
 <!---
